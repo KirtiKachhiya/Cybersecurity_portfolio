@@ -67,6 +67,6 @@ Next Steps:
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/KirtiKachhiya
+- LinkedIn: https://linkedin.com/in/kirti-kachhiya-a3397b28b
 - GitHub: https://github.com/Kirtikachhiya
 writeups/cybersecurity-basics.md
